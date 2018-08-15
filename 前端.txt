@@ -1,0 +1,27 @@
+1.html
+	http://www.runoob.com/html/html-tutorial.html
+2.js
+	http://www.runoob.com/js/js-tutorial.html
+3.css
+	http://www.w3school.com.cn/css/index.asp
+4.jquery
+	https://www.runoob.com/jquery/jquery-tutorial.html
+5.ajax
+	http://www.runoob.com/ajax/ajax-tutorial.html
+6.Vue
+	https://cn.vuejs.org/v2/guide/
+7.Vue-router
+	https://router.vuejs.org/zh/
+8.es6
+	http://es6.ruanyifeng.com/
+9.element-ui
+	http://element-cn.eleme.io/#/zh-CN
+
+	
+先学1-3，能够记住大部分标签以及css属性之后，学习4，
+能够构建简单的逻辑之后，学习5，6，7，能够使用vue进行普通网站的开发之后
+深入学习8，扩展个人js能力，然后同时学习9，借用ui进行开发，
+同时可以在学习ajax的时候同步了解一下axios，有前后端交流的理解，
+Vue精通之后（注意是精通），可以学习angular以及react，这三个是当前热门框架
+
+学习vue的时候同步了解一下sass以及less，建议使用sass因为更简单
